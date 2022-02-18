@@ -1,2 +1,2 @@
-# Pipeline-Processor-Architecture
-Chania Risk Instriction Set v.4 Pipeline Processor Architecture in Xilinx ISE
+# Processor-Pipeline-Architecture
+Chania Risk Instruction Set v.4 Processor Pipeline Architecture in Xilinx ISE
